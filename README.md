@@ -15,6 +15,6 @@ or
 git clone git@github.com:MySelections/openwrt-minieap.git -b s0pt package/minieap
 ```
 ```sh
-make menuconfig # choose `minieap` in section `Network`
+make menuconfig # choose `minieap` to [M] in section `Network`
 make package/minieap/compile V=s
 ```
