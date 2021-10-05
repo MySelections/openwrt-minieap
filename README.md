@@ -2,7 +2,7 @@
 
 ## Build
 
-First download [OpenWrt SDK](https://downloads.openwrt.org/) for your device.
+First download [OpenWrt SDK](https://downloads.openwrt.org/) or [PandoraBox SDK](http://downloads.pangubox.com:6380/pandorabox/) for your device.
 
 ```sh
 cd /path/to/your/sdk
