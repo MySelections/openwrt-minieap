@@ -9,7 +9,7 @@ PKG_LICENSE_FILES:=LICENSE
 
 PKG_SOURCE_PROTO:=git
 #PKG_SOURCE_URL:=https://github.com/ysc3839/minieap.git
-PKG_SOURCE_URL:=git@github.com:ysc3839/minieap.git
+PKG_SOURCE_URL:=git@github.com:MySelections/minieap.git
 PKG_SOURCE_SUBDIR:=$(PKG_NAME)-$(PKG_VERSION)
 PKG_SOURCE_VERSION:=acc940706d8821d0114b9f93319973165900b595
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
